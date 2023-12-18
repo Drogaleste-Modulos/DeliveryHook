@@ -1,5 +1,6 @@
 {
   "enabled": true,
   "fileName": "DeliveryHook.dll",
-  "functionName": "Initialize"
+  "functionName": "Initialize",
+  "autoRun": true
 }
